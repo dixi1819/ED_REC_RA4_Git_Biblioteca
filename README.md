@@ -4,3 +4,6 @@ Proyecto de recuperación para practicar Git y GitHub.
 - Java
 - Git
 - IntelliJ IDEA o Visual Studio Code
+
+## Uso
+El proyecto se ejecuta desde el método main de la clase Main.
